@@ -9,7 +9,7 @@ new Vue({
 
 import axios from 'axios';
 
-const axios = require('axios');
+//const axios = require('axios');
 // ElasticsearchのAPIエンドポイントを指定
 const url = 'https://i-o-optimized-deployment-ad278b.es.ap-northeast-1.aws.found.io:9243';
 
